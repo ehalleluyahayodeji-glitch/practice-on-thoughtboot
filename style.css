@@ -154,7 +154,7 @@ hr{
 .tree h3:hover{
     color: yellow;
 }
-.tree p{
+ .tree p{
     font-size: 21px;
     margin-left: 500px;
     align-items: justify;
@@ -320,7 +320,7 @@ h1 {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
-    font-weight: 600;
+    font-weight: 600  ;
     margin-left: 500px;
 }
 .back h3:hover{
